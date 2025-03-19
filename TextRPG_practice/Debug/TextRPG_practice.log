@@ -1,4 +1,4 @@
 ﻿  TextRPG_practice.cpp
-C:\Users\KIMM\source\repos\TextRPG_practice\TextRPG_practice\TextRPG_practice.cpp(387,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\KIMM\source\repos\TextRPG_practice\TextRPG_practice\TextRPG_practice.cpp(388,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMM\source\repos\TextRPG_practice\TextRPG_practice\TextRPG_practice.cpp(395,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMM\source\repos\TextRPG_practice\TextRPG_practice\TextRPG_practice.cpp(396,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   TextRPG_practice.vcxproj -> C:\Users\KIMM\source\repos\TextRPG_practice\Debug\TextRPG_practice.exe
